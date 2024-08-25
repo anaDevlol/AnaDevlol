@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, My name is ANA 🫳 I learning some languages like 
+      HTML - CSS - Js
+
+   💬 Ask me about anything ..
 
 <!--
 **anaDevlol/AnaDevlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...🦧
 -->
