@@ -1,8 +1,9 @@
+![Development](https://github.githubassets.com/assets/thumbnail-31b2a20df6fc.png)
+
 # Hi there, My name is ANA 🫳🏻
 ### Development and Desing
 I relly enjoy learing languages and frameworks, also learn database mangament like MySQL 
 
-![Development](https://github.githubassets.com/assets/thumbnail-31b2a20df6fc.png)
 
 ## Skills and Experience:
 - JAVA 
