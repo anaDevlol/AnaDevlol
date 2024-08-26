@@ -1,10 +1,10 @@
-### Hi there, My name is ANA 🫳🏻
-#### Development and Desing
+# Hi there, My name is ANA 🫳🏻
+### Development and Desing
 I relly enjoy learing languages and frameworks, also learn database mangament like MySQL 
 
 ![Development](https://github.githubassets.com/assets/thumbnail-31b2a20df6fc.png)
 
-##Skills and Experience:
+## Skills and Experience:
 - JAVA 
 - REACT
 - JS 
@@ -14,7 +14,7 @@ I relly enjoy learing languages and frameworks, also learn database mangament li
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaDevlol&theme=ayu-mirage&show_icons=true)
 
-</br>   💬 Ask me anything ..
+</br>   💬 Ask me anything ...
 
 <!--
 **anaDevlol/AnaDevlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
