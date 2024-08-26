@@ -1,8 +1,20 @@
-# Hi there, My name is ANA 🫳 
- I learning some languages like </br>
-    HTML - CSS - Js
+### Hi there, My name is ANA 🫳🏻
+#### Development and Desing
+I relly enjoy learing languages and frameworks, also learn database mangament like MySQL 
 
-</br>   💬 Ask me about anything ..
+![Development](https://github.githubassets.com/assets/thumbnail-31b2a20df6fc.png)
+
+##Skills and Experience:
+- JAVA 
+- REACT
+- JS 
+- HTML 
+- CSS 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anaDevlol&theme=flag-india&show_icons=true)
+
+</br>   💬 Ask me anything ..
 
 <!--
 **anaDevlol/AnaDevlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
