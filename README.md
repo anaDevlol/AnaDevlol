@@ -1,4 +1,3 @@
-![Development](https://github.githubassets.com/assets/thumbnail-31b2a20df6fc.png)
 
 # Hi there, My name is ANA 🫳🏻
 ### Development and Desing
