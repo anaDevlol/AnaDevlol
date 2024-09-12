@@ -5,7 +5,7 @@ I relly enjoy learing languages and frameworks, also learn database mangament li
 
 
 ## Skills and Experience:
-- JAVA 
+- JAVA  
 - REACT
 - JS 
 - HTML 
